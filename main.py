@@ -33,6 +33,6 @@ def getPrediction(filename):
     return pred_class
 
 
-test_prediction =getPrediction('example.jpg')
+#test_prediction =getPrediction('example.jpg')
 
 
